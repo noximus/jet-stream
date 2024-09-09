@@ -16,6 +16,15 @@ export default {
             fontFamily: {
                 sans: ['Figtree', ...defaultTheme.fontFamily.sans],
             },
+            colors: {
+                galaxy: {
+                    black: '#0a0a0a', // Deep space black
+                    purple: '#8a2be2', // Bright electric purple
+                    blue: '#483d8b', // Dark slate blue
+                    starYellow: '#fffacd', // Pale yellow for stars
+                    nebulaPink: '#ff69b4', // Pink for nebula accents
+                }
+            },
         },
     },
 
